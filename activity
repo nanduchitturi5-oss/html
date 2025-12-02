@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+    <dl>
+     <h1><dt><b>HTML Formatting Tags</b></dt></h1>
+     <dd>Welcome!</dd>
+     <dd>This page showcases various HTML tags</dd>
+
+     <h2><dt><b>Text Formatting</b></dt></h2>
+     <dd><b>Bold</b>,<i>italic</i>,<u>underline</u>,<del>strikethrough</del>,teletype,<b>strong</b>,<em>emphasized</em></dd>
+
+     <h2><dt><b>Content</b></dt></h2>
+     <dd>HTML:HTML.see HTML:5 specification</dd>
+
+     <h2><dt>Media</dt></h2>
+
+   </dl>
+
+
+
+    
+    
+</body>
+</html>
