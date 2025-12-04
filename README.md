@@ -3,6 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text formatting</title>
+</head>
+<body>
+    <blockquote>This is K25DR section of html class
+        Today we are learning text formatting
+     </blockquote>
+
+     He says<q>Hello world</q>
+     <cite>Every action has equal and opposite reqaction.</cite>
+     <p><i>Every action has equal and opposite reaction.</i></p>
+     <dfn>HTML stands for hyper text markup language</dfn>
+     <strong>this tag used to bold data</strong>
+     <ins>this tag is used to inserts the marks text</ins>
+     <abbr title="hyper text markup language">HTML</abbr><br>
+     <em>this tag is used to convert into italics</em>
+     <del>this tag is used to delete texts</del>
+     <small>this tag is used to convert into small size</small>
+     
+     <mark>this tag is used to highlight the data</mark>
+     
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>form Validation</title>
     <script>
         // JavaScript code for form validation can be added here
