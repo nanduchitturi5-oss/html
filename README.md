@@ -1,3 +1,21 @@
+<DOCTYPE> 
+    <html>
+        <head>
+            <body>
+
+            
+<b>warning:</b>Dont touch the switch board
+    <u>HTML</u>
+    <i>Hello</i>
+    <em>Study Hard</em>
+    <del>500RS</del>
+    <s>600rs</s>
+    <ins>world</ins>
+    <q>he says I will go"</q>
+</body>
+
+</html>
+
 
 <!DOCTYPE html>
 <html lang="en">
