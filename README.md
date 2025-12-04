@@ -1,5 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+   <head>
+      <title>my first document of list html</title>
+      </head>
+      <body>
+        <ol type="i"
+            <li>html</li>
+            <li>CSS</li>
+            <li>javascript</li>
+        </ol>
+          <ol start="45"
+             <li>html</li>
+             <li>css</li>
+             <li>javascript</li>
+      </body>
+      </html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
