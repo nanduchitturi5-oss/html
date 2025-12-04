@@ -1,3 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>table</title>
+    <link rel="stylesheet" href="table.css">
+</head>
+<body>
+    <div class="heading">
+        <h1>TABLE</h1>
+
+    </div>
+
+    <div class="table-container">
+        <div class="table">
+            
+            <table border ="2px solid black">
+                <tr>
+                    <th colspan="2">NAME</th>
+                    <th>RollNo.</th>
+            <th rowspan="2">Marks</th>
+        </tr>
+
+        <tr>
+
+          <td>NANDU</td>  
+          <td>32</td>
+        </tr>
+        <tr>
+            <td>CHANDU</td>
+            <td>33</td>
+        </tr>
+        <tr>
+            <td>ROHIT</td>
+            <td>34</td>
+        </tr>
+    </table></div>
+    </div>
+    
+</body>
+</html>
 <!DOCTYPE html>
 <html lang="en">
    <head>
