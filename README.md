@@ -1,6 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form Validation</title>
+    <script>
+        // JavaScript code for form validation can be added here
+        function validateForm() {
+            // Example validation logic
+            let name = document.myform.username.value;
+            let email = document.myform.email.value;
+            if (name === "" || email === "") {
+                alert("All fields must be filled out");
+                return false;
+            }
+            let pattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
+            if (!email.match(pattern)) {
+                alert("Please enter a valid email address");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <form name="myform"  onsubmit="return validateForm()">
+        <h2>Form Validation Example</h2>
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username" required><br><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        <input type="submit" value="Submit">
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
    <style>
     #box {
     width: 150px;
