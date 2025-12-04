@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>first document of list html</title>
+</head>
+<body> 
+    <ol type="A"></ol>
+       <h2>HOW TO MAKE A TEA:</h2>
+    <li>First,take a pan</li>
+    <li>Then,add some water on bowl and boil it</li>
+    <li>Then add some sugar and tea leaves in it</li>
+    <li>Add milk in pan</li>
+    <li>Boil the tea in low flame</li>
+    <li>Then serve the tea in cups</li>
+</ol>
+</body>
+</html>
